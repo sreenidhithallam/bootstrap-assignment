@@ -1,0 +1,217 @@
+/*body's background*/
+body
+{
+	background-color: rgb(213, 255, 255);
+	padding-top: 45px;	
+}
+/* padder*/
+
+.padder
+  {
+  	margin-top:  30px;
+  	margin-left: 25px;
+  	margin-bottom: 30px;
+    margin-right: 25px;
+  }
+
+/*Navigation bar*/
+.navbar-brand
+{
+	font-family:'PT Sans',sans-serif;
+	font-size: 40px;
+	font-style: bold;
+	color: rgb(255, 70, 98);
+}
+
+li a
+{
+	font-family: 'Scada', sans-serif;
+	font-size: 20px;
+	font-color: rgb(85, 26, 139);
+	padding-top: 3px;
+}
+
+/*Carousel*/
+#container_carousel
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+/*About us container*/
+#container_about
+{
+    padding: 15px 0px 0px 0px;
+}
+
+/*about us section*/
+.about_us
+{
+	background-color: #82b62d;
+}
+
+#about
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 48px;
+	color:white;
+	padding: 10px 10px 10px 10px;
+}
+
+#about_p
+{
+	color:white;
+	font-size: 18px;
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 50px;
+	margin-top: 30px;
+	padding: 10px 10px 10px 10px;	
+}
+
+/*learn more*/
+.learnmore
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	width:300px;
+	margin-bottom: 20px;
+	padding: 10px 5px 10px 5px;
+	vertical-align: middle;
+}
+
+/*testimonials*/
+
+.sec_heading
+{
+	color: #82b62d;
+	font-size: 30px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.quote
+{
+	font-family: 'Neucha', cursive;
+	font-size: 20px;
+	margin:30px 30px 0px 30px;
+	display: inline;
+	float: right;
+}
+
+/*deals*/
+
+.deal-box {
+      border: 7px solid transparent;
+      padding: 0;
+  }
+
+  .country
+{
+   	color: #0e0e0e;
+	font-size: 18px;
+	font-family: 'PT Sans', sans-serif;
+	font-style: italic;
+}
+
+.place
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 36px;
+	color:#82b62d;
+}
+
+.information
+{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+  
+#hot
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 48px;
+	color:#82b62d;
+	padding: 10px 10px 10px 10px;
+}
+
+#hot_p
+{
+	color:#7a7a7a;
+	font-size: 18px;
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 50px;
+	margin-top: 30px;
+	padding: 10px 10px 10px 10px;	
+}
+
+/*3 column paragragh*/
+.sec_p
+{	
+	color: #7a7a7a;
+	font-size: 16px;
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+}
+.map-locator
+{
+font-size: 30px;
+color: orange;
+}
+.star
+{
+	font-size: 10px;
+	color:orange;
+}
+
+.thumbnail_1
+{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.glyphi
+{
+	color: white;
+	font-size: 150px;
+}
+.container_choose
+{
+    background-image: url("./img/background.png");
+    background-repeat: repeat;
+}
+
+.container_deals
+{
+background-color: white;
+padding-left: 0px;
+padding-right: 0px;	
+padding-top: 0px;
+}
+
+.container_hot_deals
+{
+background-color: rgb(232, 222, 222);
+padding-left: 0px;
+padding-right: 0px;	
+}
+
+.choose_us
+{
+	margin: 0;
+}
+
+.information {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+/*footer*/
+
+/*copyrights*/
+#copyrights
+{
+	font-family: 'pt sans',sans-serif;
+	font-size: 20px;
+	display: inline;
+	color:white;
+}
